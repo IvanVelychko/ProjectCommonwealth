@@ -1,5 +1,9 @@
 #background {
+<<<<<<< HEAD
   background-image: url("https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/Commonwealth_Flag_-_2013.svg/188px-Commonwealth_Flag_-_2013.svg.png");
+=======
+  background-color: lime;
+>>>>>>> 54b82b3493dee8eefc4f1ed8ec1709caa5674193
   background-size: cover;
   width: 100%;
   height: 100%;
