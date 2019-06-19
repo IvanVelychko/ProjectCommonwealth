@@ -15,7 +15,7 @@ figure {
 
 #content {
 
-    background-color: #BF2517;
+    background-color: #FF4930;
 
     border: 20px solid black;
 
@@ -51,7 +51,7 @@ nav ul {
   margin-left: auto;
   margin-right: auto;
 	list-style-type: none;
-	background-color: #ffb74c;
+	background-color: #FF4930;
 	border: 5px solid black;
 	border-radius: 10px;
 	font-family: sans-serif;
